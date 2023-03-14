@@ -62,7 +62,7 @@
                     <p>INFORMATION</p>
                 </div>
                 <div class="menubutton">
-                    <a class="bulletpoint"> &#8226;</a><a class="link, active" href="index.html"> ABOUT ME | CONTACT </a> <a class="bulletpoint"> &#8226;</a>
+                    <a class="bulletpoint"> &#8226;</a><a class="link, active" href=""> ABOUT ME | CONTACT </a> <a class="bulletpoint"> &#8226;</a>
                 </div>
                 <hr>
                 <div class="menubutton, kopje">
@@ -72,20 +72,20 @@
                     <p>CMD</p>
                 </div>
                 <div class="menubutton">
-                    <a class="link" href="portfoliocmd.html" >BIG PROJECTS | VARIETY </a>
+                    <a class="link" href="portfoliocmd" >BIG PROJECTS | VARIETY </a>
                 </div>
                  <div class="menubutton, kopje1">
                     <p>OTHER</p>
                 </div>
                 <div class="menubutton">
-                    <a class="link" href="portfolioother.html">GRAPHIC DESIGN | DTP</a>
+                    <a class="link" href="portfolioother">GRAPHIC DESIGN | DTP</a>
                 </div>
                 <hr>
                 <div class="menubutton, kopje">
                     <p>HOBBIES</p>
                 </div>
                 <div class="menubutton"  >
-                    <a class="link" href="hobbies.html">DESIGN | PHOTOGRAPHY</a>
+                    <a class="link" href="hobbies">DESIGN | PHOTOGRAPHY</a>
                 </div>
                 <hr id="last">
             </div>
