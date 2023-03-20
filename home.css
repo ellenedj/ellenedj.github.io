@@ -31,6 +31,29 @@
     margin-right:20%;
     margin-top:10%;
 }
+
+#grootkopje{
+color:#2A2417;
+font-weight:bold;
+font-size:1.2em;
+
+}
+
+.kleinkopje{
+color:#584E27;
+font-weight:bold;
+font-size:0.9em;
+}
+
+.kleintext{
+   color:#2A2417; 
+   font-size:0.8em;
+font-weight:bold;
+}
+
+br{
+    margin:0%;
+}
 /*
 label{
     font-size:1.3vw;
